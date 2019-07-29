@@ -10,3 +10,8 @@ system.initialize = function() {
     
 }
 
+system.shutdown = function() {
+  //在此处进行结束工作
+  closeDB();
+  server.log("EconomyAPI unloaded");
+}
