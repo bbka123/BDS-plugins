@@ -5,5 +5,7 @@ plugins for stoneserver（Minecraft bedrock edition server）
 用这个仓库储存我这个初学者糟糕的代码） 目前已有插件
 
 1.EconomyAPI
+
 2.EconomyShop
+
 3.EconomySell
