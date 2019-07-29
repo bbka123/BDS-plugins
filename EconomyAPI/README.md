@@ -45,6 +45,6 @@ int EconomyAPI.myPoint(Player player)
 ```
 
 ## Bug feedback and communication
-* E-mail: 1391310991@qq.com
+* E-mail: bbka1012@163.com
 * Link ID: bbka1012
 
